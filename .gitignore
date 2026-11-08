@@ -1,0 +1,14 @@
+# Source data is intentionally not redistributed
+*.csv
+*.xlsx
+*.xls
+
+# SQL Server local files
+*.mdf
+*.ldf
+*.bak
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
